@@ -30,6 +30,8 @@
 
 具体介绍请看: https://mp.weixin.qq.com/s/S3nFVPHAhxn23MQb_Mct-Q
 
+如果还需要采集公众号历史/搜一搜/视频号等数据可以看收费的接口: https://v2i7lj8pzi.apifox.cn
+
 #### 自动同意好友请求
 
 ![](image/3.png)
