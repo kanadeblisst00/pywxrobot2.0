@@ -10,11 +10,13 @@
 
 #### 功能列表
 
-- [x] 监控公众号推送
-- [x] 自动同意好友请求
-- [x] 关键词自动邀请进群
+- [x] [监控公众号推送](https://mp.weixin.qq.com/s/S3nFVPHAhxn23MQb_Mct-Q)
+- [x] [自动同意好友请求](https://mp.weixin.qq.com/s/Ky62rpaw-T72O6gL3M8Zrw)
+- [x] [关键词自动邀请进群](https://mp.weixin.qq.com/s/Ky62rpaw-T72O6gL3M8Zrw)
+- [x] [自动下载文件、图片和视频](https://mp.weixin.qq.com/s/mZvxw1rTzjPzgcRPETtS_w)
+- [ ] v免签监控端
+- [ ] 进群提示
 - [ ] 单向好友检测
-- [ ] 自动下载文件、图片和视频
 - [ ] 对接知识库做智能客服
 - [ ] 对接腾讯元宝AI
 - [ ] 用AI总结最近的群聊天消息，告诉我有没有我关心的内容
@@ -66,3 +68,9 @@
     "测试群聊1": ["进群测试"]
 }
 ```
+
+#### 自动下载文件
+
+![](image/5.png)
+
+勾选就会全部下载，后面会弄个选项过滤掉一些群聊
