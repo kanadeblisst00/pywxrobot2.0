@@ -60,6 +60,8 @@
 - 是否仅同意关键词：只有命中下面的关键词规则才会自动同意好友的请求，不然会回复问候语(如果设置)
 - 朋友圈权限: 不让他看 1 不看他 2 不让他看|不看他 3 仅聊天 8 
 
+具体介绍请看：https://mp.weixin.qq.com/s/Ky62rpaw-T72O6gL3M8Zrw
+
 #### 关键词自动邀请进群
 
 ![](image/4.png)
@@ -68,8 +70,16 @@
 
 键是群名称，可以通过下拉框选择，值是要设置的规则，用英文逗号隔开
 
+具体介绍请看：https://mp.weixin.qq.com/s/Ky62rpaw-T72O6gL3M8Zrw
+
 #### 自动下载文件
 
 ![](image/5.png)
 
 勾选就会全部下载，后面会弄个选项过滤掉一些群聊
+
+具体介绍请看：https://mp.weixin.qq.com/s/mZvxw1rTzjPzgcRPETtS_w
+
+#### 防撤回
+
+具体请看：https://mp.weixin.qq.com/s/y8bV-AFSpVOYZC5N8ElpcA
