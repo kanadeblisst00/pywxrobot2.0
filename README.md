@@ -2,7 +2,11 @@
 
 这个是之前pywxrobot的更新维护版(免费使用)，不再使用aardio，而是使用pyside6做界面，可以更好的加载python脚本。
 
+#### 下载地址
+
 国内网盘下载地址：[https://www.123912.com/s/ihEKVv-CW8x?](https://www.123912.com/s/ihEKVv-CW8x) 提取码:9ceo
+
+#### 更新频率
 
 因为很多功能我用不到，所以大概率只会添加一些常用功能和我会用到的功能，文章介绍的话请看：https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0OTkwODU2MA==&action=getalbum&album_id=3904319476392476689#wechat_redirect
 
