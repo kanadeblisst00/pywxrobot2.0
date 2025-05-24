@@ -18,19 +18,24 @@
 - [x] [自动同意好友请求](https://mp.weixin.qq.com/s/Ky62rpaw-T72O6gL3M8Zrw)
 - [x] [关键词自动邀请进群](https://mp.weixin.qq.com/s/Ky62rpaw-T72O6gL3M8Zrw)
 - [x] [自动下载文件、图片和视频](https://mp.weixin.qq.com/s/mZvxw1rTzjPzgcRPETtS_w)
+- [x] [关键词自动回复](https://mp.weixin.qq.com/s/oJ8COdZiKJSG0_hrVtOqqA)
+- [x] [带撤回提示的防撤回](https://mp.weixin.qq.com/s/y8bV-AFSpVOYZC5N8ElpcA)
 - [ ] v免签监控端
 - [ ] 进群提示
 - [ ] 单向好友检测
 - [ ] 对接知识库做智能客服
 - [ ] 对接腾讯元宝AI
 - [ ] 用AI总结最近的群聊天消息，告诉我有没有我关心的内容
+- [ ] 公众号历史文章采集
+- [ ] 群聊关键词监控
+- [ ] v免签监控端
 - [ ] 还没想到
 
 ## 使用介绍
 
 #### 准备工作
 
-- 3.9.12.37版本的绿色版微信，官方下载地址: http://dldir1.qq.com/weixin/Windows/WeChat_3.9.12_update37.zip，解压后启动里面的WeChat.exe。
+- 3.9.12.37版本的绿色版微信，官方下载地址: `http://dldir1.qq.com/weixin/Windows/WeChat_3.9.12_update37.zip` ，解压后启动里面的WeChat.exe。
 - 监听程序
 
 #### 使用方法
@@ -83,3 +88,9 @@
 #### 防撤回
 
 具体请看：https://mp.weixin.qq.com/s/y8bV-AFSpVOYZC5N8ElpcA
+
+#### 关键词自动回复
+
+![](image/6.png)
+
+具体介绍请看：https://mp.weixin.qq.com/s/oJ8COdZiKJSG0_hrVtOqqA
