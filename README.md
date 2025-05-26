@@ -1,6 +1,6 @@
 ## 项目介绍
 
-这个是之前pywxrobot的更新维护版(免费使用)，不再使用aardio，而是使用pyside6做界面，可以更好的加载python脚本。
+这个是之前pywxrobot的更新维护版(目前已有的插件都是免费使用，未来某些新增的插件可能会收费)，不再使用aardio，而是使用pyside6做界面，可以更好的加载python脚本。
 
 #### 下载地址
 
@@ -20,13 +20,13 @@
 - [x] [自动下载文件、图片和视频](https://mp.weixin.qq.com/s/mZvxw1rTzjPzgcRPETtS_w)
 - [x] [关键词自动回复](https://mp.weixin.qq.com/s/oJ8COdZiKJSG0_hrVtOqqA)
 - [x] [带撤回提示的防撤回](https://mp.weixin.qq.com/s/y8bV-AFSpVOYZC5N8ElpcA)
+- [x] [公众号历史文章采集](https://mp.weixin.qq.com/s/JiaIxZ6yWGVraV_vYLkoDA)
 - [ ] v免签监控端
 - [ ] 进群提示
 - [ ] 单向好友检测
 - [ ] 对接知识库做智能客服
 - [ ] 对接腾讯元宝AI
 - [ ] 用AI总结最近的群聊天消息，告诉我有没有我关心的内容
-- [ ] 公众号历史文章采集
 - [ ] 群聊关键词监控
 - [ ] v免签监控端
 - [ ] 还没想到
@@ -54,6 +54,12 @@
 具体介绍请看: https://mp.weixin.qq.com/s/S3nFVPHAhxn23MQb_Mct-Q
 
 如果还需要采集公众号历史/搜一搜/视频号等数据可以看收费的接口: https://v2i7lj8pzi.apifox.cn
+
+#### 公众号历史采集
+
+![](image/7.png)
+
+具体介绍请看：https://mp.weixin.qq.com/s/JiaIxZ6yWGVraV_vYLkoDA
 
 #### 自动同意好友请求
 
